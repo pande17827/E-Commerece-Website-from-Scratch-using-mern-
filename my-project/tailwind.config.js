@@ -10,7 +10,7 @@ export default {
         priamry:"aqua"
       },
       backgroundColor:{
-        priary:"aqua"
+        primary:"aqua"
       }
     },
   },
