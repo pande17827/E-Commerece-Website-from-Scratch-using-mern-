@@ -5,4 +5,4 @@ function Header(){
         </>
     )
 }
-export de
+export default Header
