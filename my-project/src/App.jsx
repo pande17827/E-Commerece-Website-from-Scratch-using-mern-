@@ -1,10 +1,12 @@
 import Header from "./components/headers/Header.jsx"
-
-export default function App() {
+ function App() {
   return (
     <>
-    <Header></>
+    <Header></Header>
     
     </>
   )
 }
+
+
+export default App
