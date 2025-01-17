@@ -9,6 +9,7 @@ export default {
       colors:{
         priamry:"pink"
       },
+      backgroundColor:
     },
   },
   plugins: [],
