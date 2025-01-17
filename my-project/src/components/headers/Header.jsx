@@ -6,7 +6,7 @@ function Header(){
                 <div className="container">
                     <div className="flex items-center justify-between">
                         <div className="col1 w-[50%]">
-                            <p className="text">get up to 50% off new season styles,limitd time only</p>
+                            <p className="text-[14px]">get up to 50% off new season styles,limitd time only</p>
                         </div>
                     </div>
                 </div>
