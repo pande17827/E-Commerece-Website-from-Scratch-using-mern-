@@ -3,7 +3,7 @@ import styles from './Header.module.css';
 function Header() {
   return (
     <>
-      <div className={`${style.container} ${dty}`}>
+      <div className={`${style.container} ${style.}`}>
         <div className={styles.container}>
           <div className={styles.flex}>
             <div className={styles.col1}>
