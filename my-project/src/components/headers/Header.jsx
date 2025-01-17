@@ -2,7 +2,9 @@ function Header(){
     return (
         <>
            <h1>pandey</h1>
-           <div></div>
+           <div className="top_strip">
+                <div className="container"></div>
+           </div>
         </>
     )
 }
