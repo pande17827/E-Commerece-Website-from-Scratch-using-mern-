@@ -4,7 +4,7 @@ function Header(){
     return (
         <>
            
-           <div className="top_strip py-2 border-t-1 border-b-1">
+           <div className={style.top_strip}>
                 <div className="container">
                     <div className="flex items-center justify-between">
                         <div className="col1 w-[50%]">
