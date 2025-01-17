@@ -3,7 +3,7 @@ import styles from './Header.module.css';
 function Header() {
   return (
     <>
-      <div className={styles.topStrip ,styles}>
+      <div className={styles.topStrip+styles.aqua}>
         <div className={styles.container}>
           <div className={styles.flex}>
             <div className={styles.col1}>
