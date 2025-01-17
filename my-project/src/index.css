@@ -6,3 +6,7 @@
     width: 90%;
     margin: auto;
 }
+body{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+}
