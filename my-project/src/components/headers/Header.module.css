@@ -1,5 +1,6 @@
 .top_strip{
     padding: 2px;
     border-top: 10px;
-    border-bottom: 1px;
+    border-bottom: 10px;
+    background-color: aqua;
 }
