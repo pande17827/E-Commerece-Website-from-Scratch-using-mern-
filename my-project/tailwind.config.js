@@ -6,7 +6,9 @@ export default {
   ],
   theme: {
     extend: {
-      colors
+      colors:{
+        priamry:"pink"
+      },
     },
   },
   plugins: [],
