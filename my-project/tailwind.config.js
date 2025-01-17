@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       colors:{
-        priamry:"pink"
+        priamry:"aqua"
       },
       backgroundColor:{
-        priary:"pink"
+        priary:"aqua"
       }
     },
   },
