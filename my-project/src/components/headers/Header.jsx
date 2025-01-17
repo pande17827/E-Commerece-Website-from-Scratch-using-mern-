@@ -1,19 +1,21 @@
-import style from './Header.module.css'
+import styles from './Header.module.css';
 
-function Header(){
-    return (
-        <>
-           
-           <div className="top_strip py-2 border-t-1 border-b-1">
-                <div className="container">
-                    <div className="flex items-center justify-between">
-                        <div className="col1 w-[50%]">
-                            <p className="text-[14px]">get up to 50% off new season styles,limitd time only</p>
-                        </div>
-                    </div>
-                </div>
-           </div>
-        </>
-    )
+function Header() {
+  return (
+    <>
+      <div className={styles.topStrip}>
+        <div className={styles.container}>
+          <div className={styles.flex}>
+            <div className={styles.col1}>
+              <p className={styles.textSmall}>
+                Get up to 50% off new season styles, limited time only
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
 }
-export default Header
+
+export default Header;

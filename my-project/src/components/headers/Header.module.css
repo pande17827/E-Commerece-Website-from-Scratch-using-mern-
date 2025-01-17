@@ -1,6 +1,26 @@
-.top_strip{
-    padding: 2px;
-    border-top: 10px;
-    border-bottom: 10px;
-    background-color: aqua;
-}
+.topStrip {
+    padding: 0.5rem 0; /* Equivalent to py-2 */
+    border-top: 1px solid #000; /* Replace #000 with your desired color */
+    border-bottom: 1px solid #000; /* Replace #000 with your desired color */
+  }
+  
+  .container {
+    max-width: 1200px; /* Adjust this value as needed */
+    margin: 0 auto;
+    padding: 0 15px; /* Optional padding */
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .col1 {
+    width: 50%;
+  }
+  
+  .textSmall {
+    font-size: 14px;
+  }
+  
