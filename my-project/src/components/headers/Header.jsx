@@ -3,7 +3,9 @@ function Header(){
         <>
            <h1>pandey</h1>
            <div className="top_strip">
-                <div className="container"></div>
+                <div className="container">
+                    <div className=""></div>
+                </div>
            </div>
         </>
     )
