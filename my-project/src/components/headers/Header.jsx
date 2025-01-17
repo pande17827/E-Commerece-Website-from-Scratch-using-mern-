@@ -1,7 +1,8 @@
 function Header(){
     return (
         <>
-           h1
+           <h1>pandey</h1>
+           <div></div>
         </>
     )
 }
