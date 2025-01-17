@@ -4,7 +4,7 @@ function Header(){
            <h1>pandey</h1>
            <div className="top_strip">
                 <div className="container">
-                    <div className=""></div>
+                    <div className="flex items-center"></div>
                 </div>
            </div>
         </>
