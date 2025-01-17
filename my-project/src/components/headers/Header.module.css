@@ -1,7 +1,7 @@
 .topStrip {
     padding: 0.5rem 0; /* Equivalent to py-2 */
-    border-top: 1px solid #000; /* Replace #000 with your desired color */
-    border-bottom: 1px solid #000; /* Replace #000 with your desired color */
+    border-top: 1px ; /* Replace #000 with your desired color */
+    border-bottom: 1px ; /* Replace #000 with your desired color */
   }
   
   .container {
