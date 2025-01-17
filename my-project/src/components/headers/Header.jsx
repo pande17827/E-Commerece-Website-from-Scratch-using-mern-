@@ -1,7 +1,7 @@
 function Header(){
     return (
         <>
-            this is header components
+           h1
         </>
     )
 }
